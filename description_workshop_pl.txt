@@ -1,9 +1,9 @@
 [url=https://discord.gg/cbK6rVC][img]https://imgur.com/SpUmKtI.png[/img][/url]
 [url=https://ko-fi.com/wombatgamery][img]https://imgur.com/ITDLQg9.png[/img][/url]
 [h2]Overview[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
-Ten mod dodaje nową i unikalną strukturę do twojego świata, zaprojektowaną tak, aby była ekscytującym doświadczeniem ryzyka i nagrody dla odważnych odkrywców. Tajemnicze mechaniczne drzwi będą ukryte pod ziemią i będą zawierać niebezpieczne tory przeszkód, które wystawią Twoje umiejętności walki i uników do granic możliwości.
+Ten mod dodaje nową i unikalną strukturę do twojego świata, zaprojektowaną tak, aby była ekscytującym doświadczeniem ryzyka i nagrody dla odważnych odkrywców. Tajemnicze mechaniczne drzwi będą ukryte pod ziemią i będą zawierać niebezpieczne tory przeszkód, które wystawią twoje umiejętności walki i uników do granic możliwości.
 
-Czy masz to, czego potrzeba, aby podbić Pokoje Wyzwań?
+Czy masz to, czego potrzeba, aby pokonać Pokoje Wyzwań?
 
 [h2]Compatibility[/h2] [img]https://i.imgur.com/jdunrUl.png[/img]
 Ten mod został starannie zaprojektowany, aby wykluczyć możliwość konfliktów modów; WSZYSTKO powinno być kompatybilne, co pozwoli na korzystanie z niego i czerpanie przyjemności z niego w DOWOLNYM zestawieniu modów.
@@ -14,8 +14,8 @@ TRYB WIELOOSOBOWY NIE JEST AKTUALNIE OBSŁUGIWANY, ale ta sytuacja może się zm
 Koncepcja bram wyzwań była inspirowana grą [b][url=https://store.steampowered.com/app/211820/Starbound/]Starbound.[/url][/b]
 
 Dziękujemy następującym źródłom za udostępnienie materiałów wolnych od praw autorskich: [list]
-[*]Music composed by [url=https://whitebataudio.com][b]White Bat Audio.[/b][/url]
-[*]Sound effects designed by [url=https://www.bluezone-corporation.com][b]Bluezone Corporation.[/b][/url]
+[*]Muzyka skomponowana przez [url=https://whitebataudio.com][b]White Bat Audio.[/b][/url]
+[*]Efekty dźwiękowe zaprojektowane przez [url=https://www.bluezone-corporation.com][b]Bluezone Corporation.[/b][/url]
 [/list]
 
 Dziękujemy następującym użytkownikom za bezpośredni wkład w tworzenie modyfikacji: [list]
