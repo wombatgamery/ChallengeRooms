@@ -1,0 +1,7 @@
+displayName = [c/FFFFAA:Challenge Vaults]
+author = Wombat
+version = 1.0.6
+
+dllReferences = StructureHelper
+modReferences = SubworldLibrary
+sortAfter = StructureHelper, SubworldLibrary

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="..\tModLoader.targets" />
+	<PropertyGroup>
+		<AssemblyName>ChallengeRooms</AssemblyName>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Content\Biomes\ChallengeBG.png" />
+	  <None Remove="Content\Items\ModuleHealing.png" />
+	  <None Remove="Content\Items\SpikeTrap.png" />
+	  <None Remove="Content\Projectiles\FlamePillar.png" />
+	  <None Remove="description_workshop.txt" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="StructureHelper">
+			<HintPath>lib\StructureHelper.dll</HintPath>
+		</Reference>
+		<Reference Include="SubworldLibrary">
+			<HintPath>lib\SubworldLibrary.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

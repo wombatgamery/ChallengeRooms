@@ -1,0 +1,161 @@
+Items: {
+	Placer: {
+		DisplayName: Placer
+		Tooltip: ""
+	}
+}
+
+Mods: {
+	ChallengeRooms: {
+		Items: {
+			ChallengeBrick: {
+				DisplayName: Cegła Hartowana
+				// Tooltip: ""
+			}
+
+			ChallengeBrickWall: {
+				DisplayName: Ściana z Cegły Hartowanej
+				Tooltip: ""
+			}
+
+			EnergyCannon: {
+				DisplayName: Działo Energetyczne
+				Tooltip: Wystrzeliwuje skoncentrowane kule śmiercionośnej energii
+			}
+
+			CopperLight: {
+				DisplayName: Miedziana Żarówka
+				Tooltip: ""
+			}
+
+			CopperPipe: {
+				DisplayName: Miedziana Rura
+				Tooltip: ""
+			}
+
+			CopperPlatform: {
+				DisplayName: Miedziana Platforma
+				Tooltip: ""
+			}
+
+			SpikeTrap: {
+				DisplayName: Wypuszczacz Kolców
+				Tooltip: Wysuwa ciężkie kolce, który mogą przebić wszystko
+			}
+
+			FlameTrap: {
+				DisplayName: Płomienny Silnik
+				Tooltip: Wystrzeliwuje potężną serię gęstych płomieni
+			}
+
+			ModuleKillBoost: {
+				DisplayName: Moduł Rzeźnicki
+				Tooltip:
+					'''
+					Obrażenia krytyczne są gwarantowane przez jedną sekundę po zabiciu wroga
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModuleHealing: {
+				DisplayName: Moduł Witalny
+				Tooltip:
+					'''
+					Leczy użytkownika o 10% obrażeń zadanych od trafień krytycznych, maksymalnie do 5% jego maksymalnego zdrowia na sekundę
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModuleCritDamage: {
+				DisplayName: Moduł Strzelecki
+				Tooltip:
+					'''
+					Trafienia krytyczne zadają dodatkowe o 25% obrażeń do podstawowego mnożnika 200%.
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModuleHurtBoost: {
+				DisplayName: Moduł Zemsty
+				Tooltip:
+					'''
+					Trafienia krytyczne są gwarantowane przez jedną sekundę po otrzymaniu obrażeń
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModuleCloseRange: {
+				DisplayName: Moduł Siły
+				Tooltip:
+					'''
+					Zwiększa zadawane obrażenia o 15% z bliska, zmniejsza do 15% w odległości 32 bloków
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModuleMobility: {
+				DisplayName: Moduł Zwinności
+				Tooltip:
+					'''
+					Zwiększa wysokość skoku i czas skrzydeł/rakiety o 15%
+					Do użytku z Modułowym Wzmacniaczem
+					'''
+			}
+
+			ModularEnhancer: {
+				DisplayName: Modułowy Wzmacniacz
+				Tooltip: Samo w sobie nic nie robi, ale można to rozszerzyć o unikalne moduły w celu uzyskania potężnych efektów
+			}
+
+			GatewayIcon: {
+				// DisplayName: Gateway Icon
+				// Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			EnergyOrb.DisplayName: Kula Energii
+			Spike.DisplayName: Kolec
+			FlameJet.DisplayName: Płomienny Strumień
+			FlamePillar.DisplayName: Płomienny Filar
+			Rift.DisplayName: Szczelina
+		}
+
+		Tiles: {
+			ChallengeGateway: {
+				MapEntry: Brama Wyzwania
+				AccessGranted: Dostęp przyznany
+				AccessDenied: Dostęp odrzucony
+				DaysLeftSingle: dzień do resetu
+				DaysLeftMultiple: dni do resetu
+				MultiplayerMessage: Przepraszamy, ale Skarbiec Wyzwań nie obsługuje obecnie trybu wieloosobowego. Uruchom swój świat w trybie pojedynczego gracza, aby wejść do tej struktury.
+				CombatTrial: bitwa nieukończona
+			}
+
+			EnergyCannon.MapEntry: Działo Energetyczne
+			CopperLight.MapEntry: Żarówka
+			SpikeTrap.MapEntry: Kolczasta Pułapka
+			ChallengeSpawner.MapEntry: Przywoływacz Wyzwań
+			FlameTrap.MapEntry: Płomienna Pułapka
+			CopperLightFaulty.MapEntry: Wadliwa Żarówka
+		}
+
+		Biomes: {
+			ChallengeRoom: {
+				DisplayName: Pokój Wyzwań
+				TownNPCDialogueName: Pokój Wyzwań
+			}
+		}
+
+		Configs: {
+			ChallengeConfig: {
+				Frequency: {
+					Tooltip: ""
+					Label: "[i:129] Częstotliwość"
+				}
+
+				DisplayName: Ustawienia
+			}
+		}
+	}
+}
