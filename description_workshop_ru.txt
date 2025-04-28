@@ -21,5 +21,5 @@
 
 Отдаём должное следующим пользователям, как-либо оказавшим поддержку в разработке этого проекта: [list]
 [*][url=https://steamcommunity.com/id/xenofite][b]Xenofite[/b][/url] за создание русской локализации мода
-[*][https://steamcommunity.com/id/nichiimishiari][b]Nichiimishiari[/b][/url] за создание польской локализации мода
+[*][url=https://steamcommunity.com/id/nichiimishiari][b]Nichiimishiari[/b][/url] за создание польской локализации мода
 [/list]
