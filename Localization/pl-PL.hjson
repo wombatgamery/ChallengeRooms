@@ -151,7 +151,7 @@ Mods: {
 			ChallengeConfig: {
 				Frequency: {
 					Tooltip: ""
-					Label: "[i:129] Częstotliwość"
+					Label: "[i:ChallengeRooms/ChallengeBrick] Częstotliwość"
 				}
 
 				DisplayName: Ustawienia

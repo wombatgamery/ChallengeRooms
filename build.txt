@@ -1,6 +1,6 @@
 displayName = [c/FFFFAA:Challenge Vaults]
 author = Wombat
-version = 1.0.6
+version = 1.0.6.1
 
 dllReferences = StructureHelper
 modReferences = SubworldLibrary
