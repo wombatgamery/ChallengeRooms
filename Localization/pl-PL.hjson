@@ -9,12 +9,12 @@ Mods: {
 	ChallengeRooms: {
 		Items: {
 			ChallengeBrick: {
-				DisplayName: Cegła Hartowana
+				DisplayName: Hartowana Cegła
 				// Tooltip: ""
 			}
 
 			ChallengeBrickWall: {
-				DisplayName: Ściana z Cegły Hartowanej
+				DisplayName: Ściana z Hartowanej Cegły
 				Tooltip: ""
 			}
 
@@ -123,12 +123,12 @@ Mods: {
 
 		Tiles: {
 			ChallengeGateway: {
-				MapEntry: Brama Wyzwania
+				MapEntry: Brama Wyzwań
 				AccessGranted: Dostęp przyznany
 				AccessDenied: Dostęp odrzucony
 				DaysLeftSingle: dzień do resetu
 				DaysLeftMultiple: dni do resetu
-				MultiplayerMessage: Przepraszamy, ale Skarbiec Wyzwań nie obsługuje obecnie trybu wieloosobowego. Uruchom swój świat w trybie pojedynczego gracza, aby wejść do tej struktury.
+				MultiplayerMessage: Przepraszamy, ale Pokoje Wyzwań nie obsługują obecnie trybu wieloosobowego. Uruchom swój świat w trybie jednoosobowym, aby wejść do tej struktury.
 				CombatTrial: bitwa nieukończona
 			}
 
