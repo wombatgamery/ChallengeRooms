@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\challengeplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\challengeplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\tiles\\challengespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\tiles\\challengespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\world\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\world\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\localization\\pl-pl.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:localization\\pl-pl.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\localization\\ru-ru.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:localization\\ru-ru.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\localization\\en-us.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:localization\\en-us.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\tiles\\energycannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\tiles\\energycannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\items\\placeable\\copperplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\items\\placeable\\copperplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\projectiles\\challengeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\projectiles\\challengeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\items\\placeable\\copperpipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\items\\placeable\\copperpipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\tiles\\challengegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\tiles\\challengegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|c:\\users\\wombat\\dropbox\\pc\\documents\\my games\\terraria\\tmodloader\\modsources\\challengerooms\\content\\world\\challengeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E810394-FB04-4ED2-B467-B575076AAF2C}|ChallengeRooms.csproj|solutionrelative:content\\world\\challengeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pl-PL.hjson",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\pl-PL.hjson",
+              "RelativeDocumentMoniker": "Localization\\pl-PL.hjson",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\pl-PL.hjson",
+              "RelativeToolTip": "Localization\\pl-PL.hjson",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAxwJ4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T12:33:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ru-RU.hjson",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\ru-RU.hjson",
+              "RelativeDocumentMoniker": "Localization\\ru-RU.hjson",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\ru-RU.hjson",
+              "RelativeToolTip": "Localization\\ru-RU.hjson",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAxwJ4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T12:32:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnergyCannon.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\EnergyCannon.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\EnergyCannon.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\EnergyCannon.cs",
+              "RelativeToolTip": "Content\\Tiles\\EnergyCannon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:27:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChallengeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\ChallengeSpawner.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\ChallengeSpawner.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\ChallengeSpawner.cs",
+              "RelativeToolTip": "Content\\Tiles\\ChallengeSpawner.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAPkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:25:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\World\\World.cs",
+              "RelativeDocumentMoniker": "Content\\World\\World.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\World\\World.cs",
+              "RelativeToolTip": "Content\\World\\World.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:21:27.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "en-US.hjson",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\en-US.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US.hjson",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Localization\\en-US.hjson",
+              "RelativeToolTip": "Localization\\en-US.hjson",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAxwJkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T12:21:16.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:17:27.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChallengeProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Projectiles\\ChallengeProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\ChallengeProjectile.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Projectiles\\ChallengeProjectile.cs",
+              "RelativeToolTip": "Content\\Projectiles\\ChallengeProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:48:57.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CopperPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Items\\Placeable\\CopperPlatform.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Placeable\\CopperPlatform.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Items\\Placeable\\CopperPlatform.cs",
+              "RelativeToolTip": "Content\\Items\\Placeable\\CopperPlatform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:41:35.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CopperPipe.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Items\\Placeable\\CopperPipe.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Placeable\\CopperPipe.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Items\\Placeable\\CopperPipe.cs",
+              "RelativeToolTip": "Content\\Items\\Placeable\\CopperPipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:41:31.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChallengePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\ChallengePlayer.cs",
+              "RelativeDocumentMoniker": "Content\\ChallengePlayer.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\ChallengePlayer.cs",
+              "RelativeToolTip": "Content\\ChallengePlayer.cs",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAAAHMBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:06:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "description_workshop.txt",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\description_workshop.txt",
+              "RelativeDocumentMoniker": "description_workshop.txt",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\description_workshop.txt",
+              "RelativeToolTip": "description_workshop.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-28T12:38:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-07T12:21:37.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChallengeGateway.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\ChallengeGateway.cs",
+              "RelativeDocumentMoniker": "Content\\Tiles\\ChallengeGateway.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\Tiles\\ChallengeGateway.cs",
+              "RelativeToolTip": "Content\\Tiles\\ChallengeGateway.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAIEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:07:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChallengeRoom.cs",
+              "DocumentMoniker": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\World\\ChallengeRoom.cs",
+              "RelativeDocumentMoniker": "Content\\World\\ChallengeRoom.cs",
+              "ToolTip": "C:\\Users\\WOMBAT\\Dropbox\\PC\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ChallengeRooms\\Content\\World\\ChallengeRoom.cs",
+              "RelativeToolTip": "Content\\World\\ChallengeRoom.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:05:13.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,8 +10,8 @@ namespace ChallengeRooms
 	{
         public override ConfigScope Mode => ConfigScope.ServerSide;
 
-        [Range(0.1f, 1f)]
-        [Increment(.1f)]
+        [Range(0.25f, 1f)]
+        [Increment(.25f)]
         [DrawTicks]
         [DefaultValue(1f)]
         public float Frequency;

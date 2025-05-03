@@ -151,7 +151,7 @@ Mods: {
 			ChallengeConfig: {
 				Frequency: {
 					Tooltip: Directly controls the number of challenge doors generated in new worlds
-					Label: "[i:129] Frequency"
+					Label: "[i:ChallengeRooms/ChallengeBrick] Vault Frequency"
 				}
 
 				DisplayName: Config
